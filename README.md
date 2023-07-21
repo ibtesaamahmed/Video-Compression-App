@@ -1,16 +1,15 @@
-# video_compression_app
+# Video Compression App Flutter
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. If you don't have Flutter SDK installed, please visit official [Flutter](www.flutterdev.com) website. 
+2. Fetch latest source code from master branch.
+3. Run the app with Android Studio or VS Code. Or the command line:
+   - flutter packages get
+   - flutter pub get
+   - flutter run
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
